@@ -6,6 +6,7 @@ typedef struct qwq
 	std::string name;
 }QWQ_t;
 
+
 void main(void)
 {
 	QWQ_t qwq;

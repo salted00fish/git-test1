@@ -390,3 +390,9 @@ hs_err_pid*
 target
 .idea
 *.iml
+
+*.sln
+*.vcxproj
+*.filters
+*.gitignore
+*.gitattributes
