@@ -8,9 +8,11 @@ typedef struct qwq
 
 void main(void)
 {
-	QWQ_t qwq;
-	qwq.a = 20;
-	qwq.name = "hello";
-	std::cout << qwq.name << std::endl;
+
+
+	
+	
+
+	std::cout << "hello" << std::endl;
 
 }
